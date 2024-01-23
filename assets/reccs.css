@@ -1,0 +1,17 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+    font-family: Century;
+    font-size: 25px;
+}
+p{
+    font-size: 25px;
+    font-family: Century;
+}
+div{
+    display: inline-block;
+    margin: 20px;
+    padding: 65px;
+}
